@@ -1,2 +1,2 @@
 # Beginner_c_program
-My c language practice programming 
+My c language practice programs as a beginner 
